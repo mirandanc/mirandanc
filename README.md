@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on full-stack development
+- 🔭 I’m currently working on full stack development
 - 🌱 I’m currently deepning my knowlage with Ruby-on-Rails and React
 - 📫 How to reach me: https://www.linkedin.com/in/amnc-development/
 
