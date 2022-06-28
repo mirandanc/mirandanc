@@ -1,4 +1,8 @@
-### Hello there! 👋
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<h1 align="center">Hello there 👋, I'm Arthur</h1>
+<h3 align="center">I am a Full Stack Web Developer from Brazil. Welcome to my profile!</h3>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirandanc&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p> -->
 
 
 
@@ -16,14 +20,13 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
   <img align="center" alt="rails" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
- </div>
+  <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  </div>
   
   ##
  
