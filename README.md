@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on full stack development
-- 🌱 I’m currently deepning my knowlage with Ruby-on-Rails and React
+- 🌱 I’m currently deepning my knowlage with and ReactJS and Java
 - 📫 How to reach me: https://www.linkedin.com/in/amnc-development/
 
 <div align="center">
