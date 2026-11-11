@@ -1,38 +1,43 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Hello there 👋, I'm Arthur</h1>
-<h3 align="center">I am a Full Stack Web Developer from Brazil. Welcome to my profile!</h3>
+# Hi, I'm Arthur 👋
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirandanc&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p> -->
+Full-stack engineer from Brazil. I ship across the whole product: **Kotlin Multiplatform** mobile apps, **React + TypeScript** web apps and **Java 21 / Spring Boot** APIs, with tests and CI on all of them.
 
+📂 **Case studies:** [mirandanc.github.io](https://mirandanc.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/amnc-development/) · 📫 miranda1991chaves@gmail.com
 
+---
 
-- 🔭 I’m currently working on full stack development
-- 🌱 I’m currently deepning my knowlage with and ReactJS and Java
-- 📫 How to reach me: https://www.linkedin.com/in/amnc-development/
+## What I'm working on
 
-<div align="center">
-  <a href="https://github.com/mirandanc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mirandanc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirandanc&layout=compact&langs_count=7&theme=dark"/>
-</div>
+I'm a full-stack engineer at **[EasyPDV](https://easypdv.com.br)**, the platform behind autonomous self-checkout mini-markets in condominiums and offices: kiosk checkout, cloud ERP, warehouse operations and payments (PIX, cards). On the public site, the platform reports **500K+ transactions** in **15+ condominiums**. It also powers **[Despensinha](https://despensinha.com.br)**, an autonomous-market network in Northeast Brazil.
 
-##
+That code is private, so most of my green squares come from it. Here is what I built:
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
-  <img align="center" alt="rails" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-  <img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Redux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-  </div>
-  
-  ##
- 
-<div align="center"> 
-  <a href = "mailto:miranda1991chaves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amnc-development/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+| Product | My role | Highlights |
+|---|---|---|
+| **[Operator app](https://play.google.com/store/apps/details?id=br.com.uniolab.easypdv.operatorapp)**<br>Kotlin Multiplatform (Android + iOS) | Main developer, ~700 of ~900 commits | Picking, restocking, inventory counts and goods receipt for warehouse staff. Continuous camera and handheld barcode scanning, offline-safe photo capture with background upload, push notifications, automated Play Store and iOS release pipeline. |
+| **Admin ERP**<br>React 19 + TypeScript | 55+ merged PRs | Announcements with a rich-text editor, video and read receipts. Sales risk dashboard, recurring calendar, ABC-curve reports, supplier-invoice checking on mobile, and a reusable data table with barcode scan-to-search. |
+| **Core API**<br>Java 21 + Spring Boot, multi-module | 20+ merged features | **Sales risk analysis:** pluggable detectors with per-signal weights score each self-checkout sale for theft signals, plus bulk re-evaluation as background jobs. Announcements with concurrency-safe receipts and S3 media, real-time alerts over SSE, recurring appointments, faster stock tasks. |
+| **Nexus**<br>Bun + Elysia + Prisma, React | Wrote ~97% of the commits | Service that reconciles and syncs products, points of sale and planograms from third-party systems into EasyPDV. Diff and approval before writing, retry and skip accounting, operation reports. |
 
+In 2026 that came to **120+ merged pull requests** across these repos, with **~250 test files** written alongside the features.
+
+## Tech I use daily
+
+- **Mobile:** Kotlin, Compose Multiplatform, MVIKotlin, Koin, Ktor, Room, CameraX + ML Kit, Firebase
+- **Frontend:** React, TypeScript, Vite, TanStack Query/Table, Formik + Yup, TipTap, Vitest, Testing Library, MSW, Playwright
+- **Backend:** Java 21, Spring Boot (Web, Data JPA, Security), MySQL, Liquibase, RabbitMQ, MapStruct, JUnit 5, Testcontainers, WireMock, ArchUnit
+- **Also:** Bun, Elysia, Prisma, Node, Python
+- **Delivery:** Docker, GitHub Actions, semantic-release, SonarQube, AWS S3, Cloudflare Workers
+
+## How I work
+
+- Tests come with the feature: unit, slice, Testcontainers integration, and concurrency tests where it matters.
+- Big features ship as small stacked PRs that are easy to review. Conventional Commits, SonarQube-clean code.
+- I write a short design doc before building anything large.
+- I use AI coding agents with project rules and custom lint guards that keep them to the team's standards.
+
+## Side projects
+
+- 🧮 **[Crafting Calculator](https://github.com/mirandanc/Crafting-Calculator)** ([live](https://crafting-calculator.miranda-chaves.workers.dev)). Works out whether crafting an item in *World of Warcraft* is profitable. React + TypeScript on Cloudflare Workers, with auction-house prices pulled twice a day from the Battle.net API by GitHub Actions into Workers KV. Tested with Vitest.
+- ✅ **[simpleCheckList](https://github.com/mirandanc/simpleCheckList)**. Android checklist app in Kotlin with Jetpack Compose, Clean Architecture (use cases, repositories), Hilt, Room and Retrofit.
+- ⏰ **[DotaReminder](https://github.com/mirandanc/DotaReminder)**. Python tool that reads Dota 2 Game State Integration events and plays timed in-game reminders.
