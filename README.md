@@ -19,8 +19,6 @@ That code is private, so most of my green squares come from it. Here is what I b
 | **Core API**<br>Java 21 + Spring Boot, multi-module | 20+ merged features | **Sales risk analysis:** pluggable detectors with per-signal weights score each self-checkout sale for theft signals, plus bulk re-evaluation as background jobs. Announcements with concurrency-safe receipts and S3 media, real-time alerts over SSE, recurring appointments, faster stock tasks. |
 | **Nexus**<br>Bun + Elysia + Prisma, React | Wrote ~97% of the commits | Service that reconciles and syncs products, points of sale and planograms from third-party systems into EasyPDV. Diff and approval before writing, retry and skip accounting, operation reports. |
 
-In 2026 that came to **120+ merged pull requests** across these repos, with **~250 test files** written alongside the features.
-
 ## Tech I use daily
 
 - **Mobile:** Kotlin, Compose Multiplatform, MVIKotlin, Koin, Ktor, Room, CameraX + ML Kit, Firebase
