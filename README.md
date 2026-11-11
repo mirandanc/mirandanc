@@ -1,4 +1,4 @@
-# Hi, I'm Arthur 👋
+# Hi, I'm Arthur Chaves 👋
 
 Full-stack engineer from Brazil. I ship across the whole product: **Kotlin Multiplatform** mobile apps, **React + TypeScript** web apps and **Java 21 / Spring Boot** APIs, with tests and CI on all of them.
 
