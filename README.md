@@ -18,6 +18,7 @@ That code is private, so most of my green squares come from it. Here is what I b
 | **Admin ERP**<br>React 19 + TypeScript | 55+ merged PRs | Announcements with a rich-text editor, video and read receipts. Sales risk dashboard, recurring calendar, ABC-curve reports, supplier-invoice checking on mobile, and a reusable data table with barcode scan-to-search. |
 | **Core API**<br>Java 21 + Spring Boot, multi-module | 20+ merged features | **Sales risk analysis:** pluggable detectors with per-signal weights score each self-checkout sale for theft signals, plus bulk re-evaluation as background jobs. Announcements with concurrency-safe receipts and S3 media, real-time alerts over SSE, recurring appointments, faster stock tasks. |
 | **Nexus**<br>Bun + Elysia + Prisma, React | Wrote ~97% of the commits | Service that reconciles and syncs products, points of sale and planograms from third-party systems into EasyPDV. Diff and approval before writing, retry and skip accounting, operation reports. |
+| **Barcode product crawler**<br>Java 21 + Spring Boot 3, Docker | Created it, built v1.0 | Give it a barcode (GTIN/EAN) and it returns product data for the catalogue: name, image, weight, measurement unit and suppliers. Pages are rendered by a headless-browser service and parsed with jsoup, one extractor per field. Runs with Docker Compose and is documented with OpenAPI. |
 
 ## Tech I use daily
 
